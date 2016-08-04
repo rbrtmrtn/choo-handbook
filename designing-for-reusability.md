@@ -98,7 +98,7 @@ module.exports = function mainView (state, prev, send) {
 ```
 
 ```js
-// ./components/form.js
+// ./elements/form.js
 const getFormData = require('get-form-data')
 const html = require('choo/html')
 
